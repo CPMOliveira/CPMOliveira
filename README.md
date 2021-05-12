@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 # My Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cpmoliveira&theme=merko&show_icons=true&count_private=true&layout=compact&langs_count=10) ![](https://github-readme-stats.vercel.app/api?username=cpmoliveira&theme=merko&hide_title=true&show_icons=true&count_private=true&include_all_commits=true)
+![](https://github-readme-stats.vercel.app/api?username=cpmoliveira&theme=merko&hide_title=true&show_icons=true&count_private=true&include_all_commits=true)
