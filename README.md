@@ -17,8 +17,8 @@ table {border: none;}
 
 # My Stats
 
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cpmoliveira&theme=merko&hide_title=true&show_icons=true&count_private=true&layout=compact&langs_count=10" />]
-[<img align="center" src="https://github-readme-stats.vercel.app/api?username=cpmoliveira&theme=merko&hide_title=true&show_icons=true&count_private=true&include_all_commits=true" />]
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cpmoliveira&theme=merko&hide_title=true&show_icons=true&count_private=true&layout=compact&langs_count=10" />
+<img src="https://github-readme-stats.vercel.app/api?username=cpmoliveira&theme=merko&hide_title=true&show_icons=true&count_private=true&include_all_commits=true" />
 
 <!--
 <center>
