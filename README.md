@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+table {border: none;}
+
 # My Stats
 <table border="none">
 	<tr>
