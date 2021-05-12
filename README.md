@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # My Stats
-<table>
+<table border="none">
 	<tr>
 		<td>
 			<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cpmoliveira&theme=merko&hide_title=true&show_icons=true&count_private=true&layout=compact&langs_count=10" />
