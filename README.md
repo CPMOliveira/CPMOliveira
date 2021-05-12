@@ -15,15 +15,20 @@ Here are some ideas to get you started:
 
 # My Stats
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cpmoliveira&theme=merko&hide_title=true&show_icons=true&count_private=true&layout=compact&langs_count=10" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=cpmoliveira&theme=merko&hide_title=true&show_icons=true&count_private=true&include_all_commits=true" />
+
+<!--
 <center>
   <table>
 		<tr>
 			<td>
-				<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cpmoliveira&show_icons=true&langs_count=10&layout=compact&theme=buefy&count_private=true"/>
+				<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cpmoliveira&theme=merko&hide_title=true&show_icons=true&count_private=true&layout=compact&langs_count=10"/>
 			</td>
 			<td>
-				<img width="490px" align="left" src="https://github-readme-stats.vercel.app/api?username=cpmoliveira&theme=buefy&?theme=dark&show_icons=true%count_private=true&include_all_commits=true"/>
+				<img width="490px" align="left" src="https://github-readme-stats.vercel.app/api?username=cpmoliveira&theme=merko&hide_title=true&show_icons=true&count_private=true&include_all_commits=true"/>
 			</td>
 		</tr>
 	</table>
 </center>
+-->
