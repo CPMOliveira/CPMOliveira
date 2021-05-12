@@ -14,9 +14,14 @@ Here are some ideas to get you started:
 -->
 
 # My Stats
-
-<img align="center" width="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cpmoliveira&theme=merko&hide_title=true&show_icons=true&count_private=true&layout=compact&langs_count=10" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=cpmoliveira&theme=merko&hide_title=true&show_icons=true&count_private=true&include_all_commits=true" />
+<div>
+	<div>
+		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cpmoliveira&theme=merko&hide_title=true&show_icons=true&count_private=true&layout=compact&langs_count=10" />
+	</div>
+	<div>
+		<img align="center" src="https://github-readme-stats.vercel.app/api?username=cpmoliveira&theme=merko&hide_title=true&show_icons=true&count_private=true&include_all_commits=true" />
+	</div>
+</div>
 
 <!--
 <center>
